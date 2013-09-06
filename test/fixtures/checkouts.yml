@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  borrower: MyString
+  checkout: 2013-09-06 08:50:00
+  duedate: 2013-09-06 08:50:00
+
+two:
+  borrower: MyString
+  checkout: 2013-09-06 08:50:00
+  duedate: 2013-09-06 08:50:00
